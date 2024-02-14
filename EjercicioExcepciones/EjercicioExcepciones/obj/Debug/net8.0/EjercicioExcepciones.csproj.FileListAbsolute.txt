@@ -1,0 +1,14 @@
+C:\Users\SINOVA Covid\Desktop\proyectos\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\EjercicioExcepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SINOVA Covid\Desktop\proyectos\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\EjercicioExcepciones.AssemblyInfoInputs.cache
+C:\Users\SINOVA Covid\Desktop\proyectos\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\EjercicioExcepciones.AssemblyInfo.cs
+C:\Users\SINOVA Covid\Desktop\proyectos\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\EjercicioExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\SINOVA Covid\Desktop\proyectos\EjercicioExcepciones\EjercicioExcepciones\bin\Debug\net8.0\EjercicioExcepciones.exe
+C:\Users\SINOVA Covid\Desktop\proyectos\EjercicioExcepciones\EjercicioExcepciones\bin\Debug\net8.0\EjercicioExcepciones.deps.json
+C:\Users\SINOVA Covid\Desktop\proyectos\EjercicioExcepciones\EjercicioExcepciones\bin\Debug\net8.0\EjercicioExcepciones.runtimeconfig.json
+C:\Users\SINOVA Covid\Desktop\proyectos\EjercicioExcepciones\EjercicioExcepciones\bin\Debug\net8.0\EjercicioExcepciones.dll
+C:\Users\SINOVA Covid\Desktop\proyectos\EjercicioExcepciones\EjercicioExcepciones\bin\Debug\net8.0\EjercicioExcepciones.pdb
+C:\Users\SINOVA Covid\Desktop\proyectos\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\EjercicioExcepciones.dll
+C:\Users\SINOVA Covid\Desktop\proyectos\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\refint\EjercicioExcepciones.dll
+C:\Users\SINOVA Covid\Desktop\proyectos\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\EjercicioExcepciones.pdb
+C:\Users\SINOVA Covid\Desktop\proyectos\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\EjercicioExcepciones.genruntimeconfig.cache
+C:\Users\SINOVA Covid\Desktop\proyectos\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\ref\EjercicioExcepciones.dll
